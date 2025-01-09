@@ -6,7 +6,9 @@ Write your code in this editor and press "Run" button to execute it.
 
 *******************************************************************************/
 
-public class Main
+public class ThirdLargest
+	//o(n)
+	//0(1)
 
 {
     public static void findThirdLargest(int []a,int n){
